@@ -11,9 +11,9 @@ Seja bem-vindo(a)!
 <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
 <img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
 <img src="https://img.icons8.com/fluent/48/000000/mysql-logo.png"/>
-<img src="https://img.icons8.com/nolan/48/git.png"/>
-[<img src="https://img.icons8.com/nolan/48/lua.png"/>](https://img.icons8.com/?size=100&id=mazno5QJBBis&format=png&color=000000)
-[<img src="https://img.icons8.com/nolan/48/c++.png"/>](https://img.icons8.com/?size=100&id=55199&format=png&color=000000)
+<img src="https://img.icons8.com/nolan/48/000000/git.png"/>
+<img src="https://img.icons8.com/nolan/48/000000/lua.png"/>
+<img src="https://img.icons8.com/nolan/48/000000/c++.png"/>
  
 <div align="center">
   <a href="https://github.com/LucasJLSantos">
