@@ -13,7 +13,7 @@ Seja bem-vindo(a)!
 <img src="https://img.icons8.com/fluent/48/000000/mysql-logo.png"/>
 <img src="https://img.icons8.com/nolan/48/000000/git.png"/>
 <img src="https://img.icons8.com/nolan/48/000000/lua.png"/>
-<img src="https://img.icons8.com/nolan/48/000000/c++.png"/>
+<img src="https://img.icons8.com/?size=100&id=55199&format=png&color=FF0000"/>
  
 <div align="center">
   <a href="https://github.com/LucasJLSantos">
